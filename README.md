@@ -1,4 +1,4 @@
-# WinAI-Icons
+# WinAI-Icons (100+)
 
 ![Hero Image](hero.webp)
 
