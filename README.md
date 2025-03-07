@@ -17,4 +17,6 @@ From the pixelated beginnings of childhood to the algorithmic dance of AI, this 
 
 *Made with code, creativity, and a lifetime of curiosity.*  
 
-![Icons Preview](icons.webp)
+![Icons Preview 1](icons1.webp)
+
+![Icons Preview 2](icons2.webp)
